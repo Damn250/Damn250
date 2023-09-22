@@ -1,9 +1,11 @@
 <h1 align="center">Dimitri Kwihangana  here! </h1>
 <h3 align="center"> A software engineering student  at Afrcican Leadership University</h3>
+<h4 align="center"> I learn new things for a living 🤙 </h4>
 
 - 🔭 I’m currently a Databank Developer at Vanguard Economics
 - 🌱 I also develop with the MERN (MongoDB Express React Node) + React Native(Android & iOs)
 - 📫 You can reach me at **dimitrikwihangana@gmail.com**
+- 🌱 In love with database development with MYSQL 
 
 
 
