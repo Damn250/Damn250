@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a Software Developer at Vanguard Economics
 - 🌱 I create web and mobile solutions
-- 🌱 Passionate about Machine learning
+- 🥑 Passionate about Machine learning
 - 📫 You can reach me at **dimitrikwihangana@gmail.com**
  
 
