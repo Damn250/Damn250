@@ -3,7 +3,7 @@
 <h4 align="center"> I learn new things for a living 🤙 </h4>
 
 - 🔭 I’m currently a Software Developer at Vanguard Economics
-- 🌱 I create web and mobile solutions
+- 🌱 I create innovative web and mobile solutions
 - 🥑 Passionate about Machine learning
 - 📫 You can reach me at **dimitrikwihangana@gmail.com**
  
