@@ -2,9 +2,9 @@
 <h3 align="center"> A software engineering student  at Afrcican Leadership University</h3>
 <h4 align="center"> I learn new things for a living 🤙 </h4>
 
-- 🔭 I’m currently a Software Developer at Vanguard Economics
-- 🌱 I create innovative web and mobile solutions
-- 🥑 Passionate about Machine learning
+- 🔭 I’m currently a Database Manager at Vanguard Economics
+- 🌱 I Like working around data(Visualisation, analysis)
+- 🥑 Passionate about building dashboards
 - 📫 You can reach me at **dimitrikwihangana@gmail.com**
  
 
