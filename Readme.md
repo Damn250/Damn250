@@ -3,7 +3,7 @@
 <h4 align="center"> I learn new things for a living 🤙 </h4>
 
 - 🔭 I’m currently a Software engineer at Vanguard Economics and Aflakiosk Ltd
-- 🌱 I Like working around data(Visualisation, analysis)
+- 🌱 I Like working around data(Visualisation, analysis, , machine learning)
 - 🥑 Passionate about building dashboards
 - 📫 You can reach me at **dimitrikwihangana@gmail.com**
  
